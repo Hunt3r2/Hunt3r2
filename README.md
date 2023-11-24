@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table border="1">
+  <tr>
+    <td>
+      Hola
+    </td>
+  </tr>
+</table>
