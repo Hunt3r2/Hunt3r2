@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table border="1">
+<table border="1" style="background-color: blue;">
   <tr>
     <td>
       Hola
