@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! :) 👋
 
 <!--
 **Hunt3r2/Hunt3r2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,3 @@ Here are some ideas to get you started:
 
 <h1>Bienvenido a mi perfil</h1>
 
-<table border="1" style="background-color: blue;">
-  <tr>
-    <td>
-      <a href="https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty/">cyberpunk</a>
-    </td>
-  </tr>
-</table>
