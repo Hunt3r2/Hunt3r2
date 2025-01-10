@@ -1,20 +1,16 @@
-### Hola! :) 👋
+### 👋 Hola :)
 
-<!--
-**Hunt3r2/Hunt3r2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de software apasionado por crear aplicaciones innovadoras y eficientes. Tengo experiencia en [menciona tus áreas de especialización, como desarrollo web, desarrollo móvil, etc.], y disfruto trabajando con tecnologías como [menciona las tecnologías que usas, como Kotlin, Java, Python, etc.].
 
-Here are some ideas to get you started:
+## 🌱 Actualmente estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Kotlin
 
 
-<h1>Bienvenido a mi perfil</h1>
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes de programación**: Kotlin, Java, JavaScript
+- **Herramientas**: Git
+- **Bases de datos**: SQL, MongoDB
 
