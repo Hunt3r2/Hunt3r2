@@ -1,6 +1,6 @@
 ### 👋 Hola :)
 
-Soy un desarrollador de software apasionado por crear aplicaciones innovadoras y eficientes. Tengo experiencia en [menciona tus áreas de especialización, como desarrollo web, desarrollo móvil, etc.], y disfruto trabajando con tecnologías como [menciona las tecnologías que usas, como Kotlin, Java, Python, etc.].
+Soy un desarrollador de software apasionado por crear aplicaciones innovadoras y eficientes. Disfruto trabajando con tecnologías como Kotlin, Java.
 
 ## 🌱 Actualmente estoy aprendiendo
 
