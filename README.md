@@ -6,11 +6,12 @@ Soy un desarrollador de software apasionado por crear aplicaciones innovadoras y
 
 - Java
 - Kotlin
+- PHP
 
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes de programación**: Kotlin, Java, JavaScript
+- **Lenguajes de programación**: Kotlin, Java, JavaScript, PHP
 - **Herramientas**: Git
 - **Bases de datos**: SQL, MongoDB
 
